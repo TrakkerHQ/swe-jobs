@@ -231,6 +231,17 @@
     "date_discovered": "2026-09-09T12:45:23.958049+00:00"
   },
   {
+    "id": 7824845,
+    "company_display": "BAE Systems",
+    "title": "Embedded Software Engineering Co-Op III (Summer/Fall 2027) , Navigation and Sensor Systems",
+    "location": "Cedar Rapids, Iowa, USA",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=303814",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-09T14:03:10.439000+00:00",
+    "date_discovered": "2026-09-09T14:15:32.606083+00:00"
+  },
+  {
     "id": 7824846,
     "company_display": "BAE Systems",
     "title": "Embedded Software Engineering Co-Op II (Summer/Fall 2027) , Navigation and Sensor Systems",
@@ -968,17 +979,6 @@
     "date_discovered": "2026-09-10T16:24:46.980171+00:00"
   },
   {
-    "id": 8108748,
-    "company_display": "BAE Systems",
-    "title": "Entry Level Software Engineer (Hybrid)",
-    "location": "Rome, New York, USA",
-    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=303955",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-10T16:05:06.430000+00:00",
-    "date_discovered": "2026-09-10T16:33:26.738209+00:00"
-  },
-  {
     "id": 8111415,
     "company_display": "Mach Industries",
     "title": "May 2027 New Graduate Engineer, Software",
@@ -1100,6 +1100,17 @@
     "date_discovered": "2026-09-10T20:59:12.025362+00:00"
   },
   {
+    "id": 8220324,
+    "company_display": "Danaher",
+    "title": "IT Security Intern",
+    "location": "Coralville, Iowa, USA",
+    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Coralville-Iowa-United-States/IT-Security-Intern_R1316663/apply",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-10T00:00:00+00:00",
+    "date_discovered": "2026-09-10T21:30:44.637029+00:00"
+  },
+  {
     "id": 8261224,
     "company_display": "Emerson",
     "title": "Software Engineering Co-op (Jun-Dec 2027)",
@@ -1131,17 +1142,6 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-09-11T02:29:53.284821+00:00"
-  },
-  {
-    "id": 8358079,
-    "company_display": "Franklin-Templeton",
-    "title": "Associate Software Engineer",
-    "location": "Hyderabad, Telang\u0101na, India",
-    "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/Hyderabad-Telangana-India/Software-Engineer--Generic-Web-Developer-_869250/apply",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-11T00:00:00+00:00",
-    "date_discovered": "2026-09-11T04:13:35.578305+00:00"
   },
   {
     "id": 8364653,
@@ -1384,6 +1384,17 @@
     "country": "international",
     "updated_at": "2026-09-11T00:00:00+00:00",
     "date_discovered": "2026-09-11T11:13:45.962444+00:00"
+  },
+  {
+    "id": 8403154,
+    "company_display": "Franklin-Templeton",
+    "title": "Associate Software Engineer",
+    "location": "Hyderabad, Telang\u0101na, India",
+    "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/Hyderabad-Telangana-India/Associate-Software-Engineer_869266-1/apply",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-09-11T00:00:00+00:00",
+    "date_discovered": "2026-09-11T11:13:45.964848+00:00"
   },
   {
     "id": 8406527,
@@ -1901,6 +1912,28 @@
     "country": null,
     "updated_at": "2026-09-11T20:09:42.329761+00:00",
     "date_discovered": "2026-09-11T20:10:08.085281+00:00"
+  },
+  {
+    "id": 8601566,
+    "company_display": "BAE Systems",
+    "title": "Junior Developer",
+    "location": "McLean, Virginia, USA",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=304048",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-11T20:05:00.377000+00:00",
+    "date_discovered": "2026-09-11T20:12:46.662835+00:00"
+  },
+  {
+    "id": 8601567,
+    "company_display": "BAE Systems",
+    "title": "Junior Developer \u2014 AI Harness Development",
+    "location": "McLean, Virginia, USA",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=304049",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-09-11T20:05:00.377000+00:00",
+    "date_discovered": "2026-09-11T20:12:46.665800+00:00"
   },
   {
     "id": 8603856,
@@ -3399,17 +3432,6 @@
     "date_discovered": "2026-09-15T12:19:54.247063+00:00"
   },
   {
-    "id": 9696724,
-    "company_display": "TD SYNNEX",
-    "title": "Trainee Networking",
-    "location": "Alcobendas, Madrid, Spain",
-    "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Alcobendas-Spain/Trainee-Networking_R56018/apply",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-15T00:00:00+00:00",
-    "date_discovered": "2026-09-15T12:19:58.444568+00:00"
-  },
-  {
     "id": 9699740,
     "company_display": "Autodesk",
     "title": "Intern, Software Development Engineer [PSET-Localization]",
@@ -3991,17 +4013,6 @@
     "country": "us",
     "updated_at": "2026-09-16T14:05:14.511912+00:00",
     "date_discovered": "2026-09-16T14:06:37.959026+00:00"
-  },
-  {
-    "id": 10212028,
-    "company_display": "Raytheon",
-    "title": "Software Engineer I - Test",
-    "location": "US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-16T14:05:14.512220+00:00",
-    "date_discovered": "2026-09-16T14:06:38.007484+00:00"
   },
   {
     "id": 10215785,
@@ -4642,17 +4653,6 @@
     "date_discovered": "2026-09-17T13:46:39.311582+00:00"
   },
   {
-    "id": 10678913,
-    "company_display": "Thermofisher",
-    "title": "Engineering Co-Op",
-    "location": "Hillsboro, Oregon, USA",
-    "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Hillsboro-Oregon-USA/Winter-Engineering-Co-Op_R-01329364/apply",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-04-01T00:00:00+00:00",
-    "date_discovered": "2026-09-17T13:51:05.800114+00:00"
-  },
-  {
     "id": 10681377,
     "company_display": "Northrop Grumman",
     "title": "Graduate Control Systems Engineer",
@@ -5256,17 +5256,6 @@
     "country": "us",
     "updated_at": "2026-09-18T16:06:01.285378+00:00",
     "date_discovered": "2026-09-18T16:07:09.787031+00:00"
-  },
-  {
-    "id": 11231743,
-    "company_display": "Cisco",
-    "title": "Splunk Solutions Engineer Intern",
-    "location": "London, United Kingdom",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/London-United-Kingdom/Splunk-Solutions-Engineer-Intern_2025977/apply",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-18T00:00:00+00:00",
-    "date_discovered": "2026-09-18T16:18:39.549067+00:00"
   },
   {
     "id": 11233253,
@@ -6125,17 +6114,6 @@
     "country": "us",
     "updated_at": "2026-09-21T20:13:07.395449+00:00",
     "date_discovered": "2026-09-21T20:14:50.457617+00:00"
-  },
-  {
-    "id": 12237334,
-    "company_display": "Booz Allen Hamilton",
-    "title": "University - 2027 Summer Games Cyber Security Intern - McLean, VA",
-    "location": "McLean, VA",
-    "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0249878",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T20:13:54.849606+00:00",
-    "date_discovered": "2026-09-21T20:14:52.595540+00:00"
   },
   {
     "id": 12237359,
@@ -7128,6 +7106,17 @@
     "date_discovered": "2026-09-22T17:24:53.705716+00:00"
   },
   {
+    "id": 12663666,
+    "company_display": "Accenture",
+    "title": "Junior AI Native Engineer",
+    "location": "Not specified",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Paris/Junior-AI-Native-Engineer_R00358987",
+    "skill_level": "entry",
+    "country": null,
+    "updated_at": "2026-09-22T17:42:36.763244+00:00",
+    "date_discovered": "2026-09-22T17:46:07.632967+00:00"
+  },
+  {
     "id": 12666509,
     "company_display": "IBM",
     "title": "Software Developer Spring Co-op (Bellevue)",
@@ -7357,5 +7346,38 @@
     "country": "us",
     "updated_at": "2026-09-22T22:15:21.057435+00:00",
     "date_discovered": "2026-09-22T22:16:30.140252+00:00"
+  },
+  {
+    "id": 12800532,
+    "company_display": "Astranis",
+    "title": "Software Engineer Backend Intern (Summer 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-22T22:16:56+00:00",
+    "date_discovered": "2026-09-22T22:43:01.769524+00:00"
+  },
+  {
+    "id": 12800534,
+    "company_display": "Astranis",
+    "title": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-22T22:18:40+00:00",
+    "date_discovered": "2026-09-22T22:43:01.918230+00:00"
+  },
+  {
+    "id": 12828320,
+    "company_display": "Northrop Grumman",
+    "title": "2027 Intern - Systems Security/Cybersecurity Engineer",
+    "location": "United States-Florida-Melbourne",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-09-22T23:32:08.275009+00:00",
+    "date_discovered": "2026-09-22T23:33:07.906031+00:00"
   }
 ]
