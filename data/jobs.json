@@ -1,489 +1,5 @@
 [
   {
-    "id": 11927750,
-    "company_display": "AppLovin",
-    "title": "Full Stack Engineering Intern (2027 Summer Internship)",
-    "location": "Singapore",
-    "url": "https://boards.greenhouse.io/applovin/jobs/4714443006?gh_jid=4714443006",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-21T02:59:09+00:00",
-    "date_discovered": "2026-09-21T03:00:43.375302+00:00"
-  },
-  {
-    "id": 11980530,
-    "company_display": "Mercury",
-    "title": "Software Engineering Intern - Spring 2027",
-    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-    "url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004",
-    "skill_level": "intern",
-    "country": "remote",
-    "updated_at": "2026-09-21T07:00:00+00:00",
-    "date_discovered": "2026-09-21T07:00:39.916370+00:00"
-  },
-  {
-    "id": 11989718,
-    "company_display": "Plexus",
-    "title": "Intern - Engineer-2",
-    "location": "Bangkok, Thailand",
-    "url": "https://jobs.plexus.com/careers/job/1099556218672",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T07:11:02.021838+00:00"
-  },
-  {
-    "id": 11989719,
-    "company_display": "Plexus",
-    "title": "Intern - Engineer-1",
-    "location": "Bangkok, Thailand",
-    "url": "https://jobs.plexus.com/careers/job/1099556218673",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T07:11:02.119364+00:00"
-  },
-  {
-    "id": 12002563,
-    "company_display": "Ericsson",
-    "title": "Junior Cloud RAN Layer 1 SW Developer",
-    "location": "Stockholm, Sweden",
-    "url": "https://ericsson.eightfold.ai/careers/job/563121777196414",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T11:12:22.233688+00:00"
-  },
-  {
-    "id": 12014812,
-    "company_display": "IBM",
-    "title": "IBM Consulting Associates: Japanese Bilingual",
-    "location": "QUEZON CITY, PH",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133152",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T11:46:04.448888+00:00"
-  },
-  {
-    "id": 12033901,
-    "company_display": "Fidelity",
-    "title": "Summer 2027 Undergraduate Internship - Software",
-    "location": "Boston, MA",
-    "url": "https://fmr.wd1.myworkdayjobs.com/en-US/FidelityCareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T12:35:14.798021+00:00",
-    "date_discovered": "2026-09-21T12:36:46.696135+00:00"
-  },
-  {
-    "id": 12070835,
-    "company_display": "EY",
-    "title": "Junior Forward Deployed Software Engineer",
-    "location": "Prague",
-    "url": "https://careers.ey.com/ey/job/Prague-1-Nove-Mesto-Junior-Forward-Deployed-Software-Engineer-110-00/1439569833/",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T13:50:30.995432+00:00"
-  },
-  {
-    "id": 12083800,
-    "company_display": "EY",
-    "title": "Internship - Forward Deployed Software Engineer",
-    "location": "Prague",
-    "url": "https://careers.ey.com/ey/job/Prague-1-Nove-Mesto-Internship-Forward-Deployed-Software-Engineer-110-00/1439572933/",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T14:20:59.440136+00:00"
-  },
-  {
-    "id": 12096550,
-    "company_display": "Aveva",
-    "title": "Junior Software Engineer",
-    "location": "Derry/LondonDerry, United Kingdom",
-    "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/DerryLondonDerry-United-Kingdom/Software-Development-Engineer-in-Test--SDET-_R013591",
-    "skill_level": "entry",
-    "country": "international",
-    "updated_at": "2026-09-21T14:49:04.636671+00:00",
-    "date_discovered": "2026-09-21T14:50:03.032188+00:00"
-  },
-  {
-    "id": 12097749,
-    "company_display": "Amazon",
-    "title": "2027 Software Dev Engineer Intern - United Kingdom",
-    "location": "London, England, GBR",
-    "url": "https://www.amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T15:05:16.814092+00:00"
-  },
-  {
-    "id": 12110787,
-    "company_display": "Amazon",
-    "title": "2027 Software Dev Engineer Intern - Bucharest, Romania",
-    "location": "Bucharest, ROU",
-    "url": "https://www.amazon.jobs/en/jobs/10554669/2027-software-dev-engineer-intern-bucharest-romania",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T15:35:17.660111+00:00"
-  },
-  {
-    "id": 12110791,
-    "company_display": "Amazon",
-    "title": "2027 Software Dev Engineer Intern - Ia\u0219i, Romania",
-    "location": "Iasi, ROU",
-    "url": "https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T15:35:17.880848+00:00"
-  },
-  {
-    "id": 12121658,
-    "company_display": "Skyworks Solutions",
-    "title": "RMI Timing Software Engineering Summer Intern (May-Aug '27)",
-    "location": "Austin, TX",
-    "url": "https://careers.skyworksinc.com/job/Austin-RMI-Timing-Software-Summer-Intern-%28May-Aug-'27%29-TX-73301/1431930100/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T15:47:29.889879+00:00"
-  },
-  {
-    "id": 12126288,
-    "company_display": "Leidos",
-    "title": "Jr. Software Engineer Intern",
-    "location": "Tucson, AZ",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T16:05:23.670345+00:00",
-    "date_discovered": "2026-09-21T16:07:53.973047+00:00"
-  },
-  {
-    "id": 12147328,
-    "company_display": "Bayer",
-    "title": "Computational Biology Gene Expression Co-Op",
-    "location": "Chesterfield, Missouri, USA",
-    "url": "https://talent.bayer.com/careers/job/562949978464453",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T16:46:50.215045+00:00"
-  },
-  {
-    "id": 12147739,
-    "company_display": "Boston-Scientific",
-    "title": "AI Software Development Intern",
-    "location": "Arden Hills US-MN, United States | N/A",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600585",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T16:47:09.876131+00:00"
-  },
-  {
-    "id": 12163967,
-    "company_display": "Singlestore",
-    "title": "MIT- Software Engineer Intern | Engine",
-    "location": "USA",
-    "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220919",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T17:19:23+00:00",
-    "date_discovered": "2026-09-21T17:35:48.566870+00:00"
-  },
-  {
-    "id": 12163968,
-    "company_display": "Singlestore",
-    "title": "MIT- Software Engineer Intern | Helios",
-    "location": "USA",
-    "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220941",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T17:16:43+00:00",
-    "date_discovered": "2026-09-21T17:35:48.616174+00:00"
-  },
-  {
-    "id": 12171576,
-    "company_display": "IBM",
-    "title": "Quantum Cloud Services Software Development Intern - 2027",
-    "location": "Yorktown Heights, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=132699",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T17:45:14.125934+00:00"
-  },
-  {
-    "id": 12171597,
-    "company_display": "IBM",
-    "title": "Quantum Control Systems Modeling Internship 2027",
-    "location": "Multiple Cities",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133141",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T17:45:14.918460+00:00"
-  },
-  {
-    "id": 12171601,
-    "company_display": "IBM",
-    "title": "Quantum Infrastructure Intern 2027 - Platform Automation",
-    "location": "Yorktown Heights, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=133127",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T17:45:15.035022+00:00"
-  },
-  {
-    "id": 12171695,
-    "company_display": "IBM",
-    "title": "Entry Level Site Reliability Engineering Professional - Austin, TX - 2027",
-    "location": "Austin, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=132819",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T17:45:17.026600+00:00"
-  },
-  {
-    "id": 12172058,
-    "company_display": "IBM",
-    "title": "Quantum Security Intern 2027 - Cloud Compliance & Security Tooling",
-    "location": "Yorktown Heights, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=132708",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T17:45:33.091028+00:00"
-  },
-  {
-    "id": 12177209,
-    "company_display": "Singlestore",
-    "title": "MIT-Software Engineer-New Grad |Engine|",
-    "location": "USA",
-    "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220863",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-21T17:36:07+00:00",
-    "date_discovered": "2026-09-21T18:06:03.022973+00:00"
-  },
-  {
-    "id": 12177210,
-    "company_display": "Singlestore",
-    "title": "MIT-Software Engineer-New Grad |Helios|",
-    "location": "USA",
-    "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220882",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-21T17:42:05+00:00",
-    "date_discovered": "2026-09-21T18:06:03.075057+00:00"
-  },
-  {
-    "id": 12177854,
-    "company_display": "Raytheon",
-    "title": "Systems Engineer Co-Op (Spring/Summer 2027) - Onsite",
-    "location": "US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Systems-Engineer-Co-Op--Spring-Summer-2027----Onsite_01873686",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T18:05:16.038936+00:00",
-    "date_discovered": "2026-09-21T18:06:47.762573+00:00"
-  },
-  {
-    "id": 12192743,
-    "company_display": "AT&T",
-    "title": "AT&T Technology Development Program Internship",
-    "location": "Atlanta, Georgia, Bothell, Washington, Dallas, Texas, Middletown, New Jersey",
-    "url": "https://att.wd1.myworkdayjobs.com/en-US/ATTCollege/job/Dallas-Texas/AT-T-Technology-Development-Program-Internship_R-122670-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T18:37:58.698544+00:00",
-    "date_discovered": "2026-09-21T18:38:26.743338+00:00"
-  },
-  {
-    "id": 12213576,
-    "company_display": "Insulet",
-    "title": "Co-op, DevOps Engineer: January - June 2027 (Hybrid)",
-    "location": "Acton, Massachusetts",
-    "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/Acton-Massachusetts/Co-op--DevOps-Engineer--January---June-2027--Hybrid-_REQ-2026-18027",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T19:15:55.945331+00:00",
-    "date_discovered": "2026-09-21T19:16:59.290948+00:00"
-  },
-  {
-    "id": 12214554,
-    "company_display": "Celestica",
-    "title": "Student Intern, Operations Techology & AI Solutions",
-    "location": "Toronto",
-    "url": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-Operations-Techology-&-AI-Solutions-ON/1439741833/",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T19:18:27.098317+00:00"
-  },
-  {
-    "id": 12214556,
-    "company_display": "Celestica",
-    "title": "Student Intern, Robotic Process Automation Developer (IT)",
-    "location": "Toronto",
-    "url": "https://careers.celestica.com/job/Toronto-Student-Intern%2C-Robotic-Process-Automation-Developer-%28IT%29-ON/1439742433/",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T19:18:27.172201+00:00"
-  },
-  {
-    "id": 12219072,
-    "company_display": "Geneva Trading",
-    "title": "C++ Developer (Intern)",
-    "location": "Chicago Office",
-    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242063007",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T19:25:46+00:00",
-    "date_discovered": "2026-09-21T19:38:16.268792+00:00"
-  },
-  {
-    "id": 12225092,
-    "company_display": "Eaton",
-    "title": "Internship: Software Engineering",
-    "location": "Franksville, Wisconsin, USA",
-    "url": "https://eaton.eightfold.ai/careers/job/687239256127",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T19:45:49.738155+00:00"
-  },
-  {
-    "id": 12234668,
-    "company_display": "Hpe",
-    "title": "Systems / Software Engineer I Graduate",
-    "location": "Roseville, California, USA",
-    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Roseville-California-United-States-of-America/Systems---Software-Engineer-I-Graduate_1214984",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-21T20:08:18.873141+00:00",
-    "date_discovered": "2026-09-21T20:11:36.893791+00:00"
-  },
-  {
-    "id": 12248787,
-    "company_display": "GE HealthCare",
-    "title": "Software Engineering Summer Intern 2027",
-    "location": "Salt Lake City",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Salt-Lake-City/Software-Engineering-Summer-Intern-2027_R4046481-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T20:40:52.438850+00:00",
-    "date_discovered": "2026-09-21T20:43:10.156329+00:00"
-  },
-  {
-    "id": 12253074,
-    "company_display": "Cadence Design Systems",
-    "title": "Graduate Student Intern - Software Engineering",
-    "location": "AUSTIN",
-    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/Univ_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-1",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T20:46:18.295413+00:00",
-    "date_discovered": "2026-09-21T20:47:29.147988+00:00"
-  },
-  {
-    "id": 12278609,
-    "company_display": "Boston-Scientific",
-    "title": "Software Engineer Intern",
-    "location": "Arden Hills US-MN, United States | N/A",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813542891",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-09-21T21:45:28.873179+00:00"
-  },
-  {
-    "id": 12296103,
-    "company_display": "Waymo",
-    "title": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
-    "location": "Mountain View, California, USA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T21:51:45+00:00",
-    "date_discovered": "2026-09-21T22:35:55.210281+00:00"
-  },
-  {
-    "id": 12296104,
-    "company_display": "Waymo",
-    "title": "2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
-    "location": "Mountain View, California, USA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T21:51:45+00:00",
-    "date_discovered": "2026-09-21T22:35:55.276892+00:00"
-  },
-  {
-    "id": 12301259,
-    "company_display": "Rivian",
-    "title": "Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op)",
-    "location": "Plymouth, Michigan",
-    "url": "https://us-careers-rivian.icims.com/jobs/33804/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T22:20:00+00:00",
-    "date_discovered": "2026-09-21T22:41:26.895823+00:00"
-  },
-  {
-    "id": 12309591,
-    "company_display": "Waymo",
-    "title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
-    "location": "Mountain View, CA, USA",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T22:47:14+00:00",
-    "date_discovered": "2026-09-21T23:05:36.669603+00:00"
-  },
-  {
-    "id": 12315651,
-    "company_display": "Rivian",
-    "title": "Software Engineering Intern - Product Lifecycle Management (Spring 2027 Co-Op)",
-    "location": "Palo Alto, California",
-    "url": "https://us-careers-rivian.icims.com/jobs/33746/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T22:51:00+00:00",
-    "date_discovered": "2026-09-21T23:13:07.935521+00:00"
-  },
-  {
-    "id": 12315666,
-    "company_display": "Rivian",
-    "title": "Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op",
-    "location": "Normal, Illinois",
-    "url": "https://us-careers-rivian.icims.com/jobs/33803/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T22:34:00+00:00",
-    "date_discovered": "2026-09-21T23:13:09.001035+00:00"
-  },
-  {
-    "id": 12315672,
-    "company_display": "Rivian",
-    "title": "Software Engineering Intern - Product Development Portal (Spring Co-Op)",
-    "location": "Palo Alto, California",
-    "url": "https://us-careers-rivian.icims.com/jobs/33745/login",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T22:52:00+00:00",
-    "date_discovered": "2026-09-21T23:13:09.250618+00:00"
-  },
-  {
     "id": 12362500,
     "company_display": "Epic Games",
     "title": "Engine Programmer Intern",
@@ -636,17 +152,6 @@
     "country": "us",
     "updated_at": "2026-09-22T13:40:50.830121+00:00",
     "date_discovered": "2026-09-22T13:42:18.794985+00:00"
-  },
-  {
-    "id": 12555458,
-    "company_display": "Howmet",
-    "title": "Cybersecurity Intern",
-    "location": "Pittsburgh, PA, USA",
-    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119551",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-22T00:00:00+00:00",
-    "date_discovered": "2026-09-22T13:44:48.979914+00:00"
   },
   {
     "id": 12557615,
@@ -946,28 +451,6 @@
     "date_discovered": "2026-09-22T19:41:23.706452+00:00"
   },
   {
-    "id": 12736017,
-    "company_display": "Emerson",
-    "title": "Graduate Software Engineering Intern",
-    "location": "Round Rock, TX, USA",
-    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011295",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-22T00:00:00+00:00",
-    "date_discovered": "2026-09-22T20:20:51.771570+00:00"
-  },
-  {
-    "id": 12739336,
-    "company_display": "Lattice-Semiconductor",
-    "title": "Junior Firmware Engineer",
-    "location": "Duluth, Georgia",
-    "url": "https://latticesemi.wd5.myworkdayjobs.com/en-US/latticesemiconductorscareers/job/Duluth-Georgia/Junior-Firmware-Engineer_R-103111",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-22T00:00:00+00:00",
-    "date_discovered": "2026-09-22T20:24:06.317602+00:00"
-  },
-  {
     "id": 12743644,
     "company_display": "Waymo",
     "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
@@ -1032,17 +515,6 @@
     "country": "us",
     "updated_at": "2026-09-22T22:12:57.111707+00:00",
     "date_discovered": "2026-09-22T22:13:58.305128+00:00"
-  },
-  {
-    "id": 12788526,
-    "company_display": "American Express",
-    "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Salt Lake City, UT",
-    "location": "Salt Lake City, UT, USA",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-22T00:00:00+00:00",
-    "date_discovered": "2026-09-22T22:15:41.788704+00:00"
   },
   {
     "id": 12800532,
@@ -1254,17 +726,6 @@
     "date_discovered": "2026-09-23T12:50:04.549317+00:00"
   },
   {
-    "id": 13048567,
-    "company_display": "General Dynamics",
-    "title": "Junior Embedded Software Engineer",
-    "location": "Bloomington, MN, USA",
-    "url": "https://www.gd.com/careers/junior-embedded-software-engineer-bloomington-mn-us-2026-75099-gdms-opportunity",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-22T00:00:00+00:00",
-    "date_discovered": "2026-09-23T12:50:12.081119+00:00"
-  },
-  {
     "id": 13052939,
     "company_display": "Deutsche Bank",
     "title": "QA Automation Engineer- Associate",
@@ -1353,28 +814,6 @@
     "date_discovered": "2026-09-23T15:19:26.448140+00:00"
   },
   {
-    "id": 13118882,
-    "company_display": "PrizePicks",
-    "title": "Software Engineering Internship - Spring 2027",
-    "location": "Atlanta, Georgia, USA",
-    "url": "http://prizepicks.com/position?gh_jid=7996172003",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T18:47:54+00:00",
-    "date_discovered": "2026-09-23T15:23:25.750195+00:00"
-  },
-  {
-    "id": 13118888,
-    "company_display": "PrizePicks",
-    "title": "Software Engineering Internship - Summer 2027",
-    "location": "Atlanta, Georgia, USA",
-    "url": "http://prizepicks.com/position?gh_jid=7999266003",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T18:47:25+00:00",
-    "date_discovered": "2026-09-23T15:23:25.783096+00:00"
-  },
-  {
     "id": 13123283,
     "company_display": "Liberty Mutual",
     "title": "2027 TechStart Summer Internship Program",
@@ -1461,28 +900,6 @@
     "country": "international",
     "updated_at": null,
     "date_discovered": "2026-09-23T15:40:35.164853+00:00"
-  },
-  {
-    "id": 13142044,
-    "company_display": "Qumulo",
-    "title": "Software Development Engineer (New Grad / Entry Level)",
-    "location": "Seattle (hybrid)",
-    "url": "https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-09-21T22:41:18.722000+00:00",
-    "date_discovered": "2026-09-23T16:25:51.144988+00:00"
-  },
-  {
-    "id": 13142045,
-    "company_display": "Qumulo",
-    "title": "Software Development Engineer (Seattle) - Internship 2027",
-    "location": "Seattle (hybrid)",
-    "url": "https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-09-21T22:32:47.416000+00:00",
-    "date_discovered": "2026-09-23T16:25:51.185291+00:00"
   },
   {
     "id": 13156216,
@@ -6787,17 +6204,6 @@
     "date_discovered": "2026-10-06T17:11:23.737013+00:00"
   },
   {
-    "id": 18397692,
-    "company_display": "Amazon",
-    "title": "2027 Software Dev Engineer Intern - Germany",
-    "location": "Berlin, DEU",
-    "url": "https://www.amazon.jobs/en/jobs/10554701/2027-software-dev-engineer-intern-germany",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-09-21T17:05:22.737226+00:00",
-    "date_discovered": "2026-10-06T17:19:29.720029+00:00"
-  },
-  {
     "id": 18397702,
     "company_display": "EA",
     "title": "Software Engineer Intern",
@@ -9735,17 +9141,6 @@
     "date_discovered": "2026-10-13T23:36:10.746674+00:00"
   },
   {
-    "id": 18437238,
-    "company_display": "EA",
-    "title": "Software Engineer Intern",
-    "location": "Vancouver, Canada \u2022 Role ID 216287 \u2022 Intern - Temporary Employee \u2022 CT - Frostbite",
-    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216287",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": null,
-    "date_discovered": "2026-10-13T23:38:51.662479+00:00"
-  },
-  {
     "id": 18437537,
     "company_display": "Apple",
     "title": "Intern - Full Stack Engineer",
@@ -9755,6 +9150,17 @@
     "country": "international",
     "updated_at": "2026-10-14T00:17:30.922000+00:00",
     "date_discovered": "2026-10-14T00:37:13.006522+00:00"
+  },
+  {
+    "id": 18437765,
+    "company_display": "BCG",
+    "title": "AI Engineer, \u65b0\u5352/New Graduate 2027, BCG X, Japan",
+    "location": "Japan",
+    "url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790318910631?post_onboarding_pid=790318910631&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-14T00:00:00+00:00",
+    "date_discovered": "2026-10-14T01:16:40.252653+00:00"
   },
   {
     "id": 18437823,
@@ -9867,17 +9273,6 @@
     "date_discovered": "2026-10-14T11:00:57.228064+00:00"
   },
   {
-    "id": 18439614,
-    "company_display": "Bitdefender",
-    "title": "Salesforce Developer Internship",
-    "location": "Bucharest",
-    "url": "https://job-boards.eu.greenhouse.io/scbitdefendersrl/jobs/5003446101",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-14T10:36:23+00:00",
-    "date_discovered": "2026-10-14T11:01:32.367614+00:00"
-  },
-  {
     "id": 18440011,
     "company_display": "Intel",
     "title": "Compiler Engineering Intern",
@@ -9986,6 +9381,17 @@
     "country": "us",
     "updated_at": "2026-10-14T16:04:12.802000+00:00",
     "date_discovered": "2026-10-14T16:19:33.037101+00:00"
+  },
+  {
+    "id": 18441424,
+    "company_display": "Red Hat",
+    "title": "Associate Consultant",
+    "location": "Remote Brazil",
+    "url": "https://redhat.wd5.myworkdayjobs.com/en-US/Jobs/job/Remote-Brazil/Associate-Consultant_R-060084-1",
+    "skill_level": "entry",
+    "country": "remote",
+    "updated_at": "2026-10-14T16:20:32.284572+00:00",
+    "date_discovered": "2026-10-14T16:20:32.699985+00:00"
   },
   {
     "id": 18441533,
@@ -10230,15 +9636,15 @@
     "date_discovered": "2026-10-15T09:11:09.644433+00:00"
   },
   {
-    "id": 18446100,
-    "company_display": "Amazon",
-    "title": "Business Developer Intern - 2027 - 6 months",
-    "location": "Munich, Bavaria, DEU",
-    "url": "https://www.amazon.jobs/en/jobs/10544726/business-developer-intern-2027-6-months",
+    "id": 18446049,
+    "company_display": "Genmab",
+    "title": "Intern, Information Security Engineer",
+    "location": "Utrecht, Netherlands",
+    "url": "https://genmab.wd3.myworkdayjobs.com/Genmab_Careers_Site/job/Utrecht/Intern--Information-Security-Engineer_R18118/apply",
     "skill_level": "intern",
     "country": "international",
-    "updated_at": "2026-09-21T09:00:28.477565+00:00",
-    "date_discovered": "2026-10-15T09:13:51.792501+00:00"
+    "updated_at": "2026-10-15T00:00:00+00:00",
+    "date_discovered": "2026-10-15T09:11:51.420809+00:00"
   },
   {
     "id": 18446415,
@@ -10272,17 +9678,6 @@
     "country": "us",
     "updated_at": "2026-10-14T00:00:00+00:00",
     "date_discovered": "2026-10-15T12:41:37.082312+00:00"
-  },
-  {
-    "id": 18446959,
-    "company_display": "BAE Systems",
-    "title": "C4ISR - Software Engineering Intern, Summer 2027 (Onsite)",
-    "location": "Wayne, New Jersey, USA",
-    "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=305469",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-15T13:03:41.992000+00:00",
-    "date_discovered": "2026-10-15T13:17:50.509856+00:00"
   },
   {
     "id": 18447303,
@@ -10459,6 +9854,17 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-15T21:10:55.856241+00:00"
+  },
+  {
+    "id": 18449307,
+    "company_display": "IBM",
+    "title": "Back End Developer Intern - NY POK JO - 2027",
+    "location": "POUGHKEEPSIE, USA",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137086",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-15T21:10:56.963891+00:00"
   },
   {
     "id": 18449310,
@@ -10811,17 +10217,6 @@
     "country": "us",
     "updated_at": "2026-10-16T15:03:16.989000+00:00",
     "date_discovered": "2026-10-16T15:18:21.355025+00:00"
-  },
-  {
-    "id": 18453862,
-    "company_display": "Intel",
-    "title": "DevOps Engineering Intern",
-    "location": "Poland, Gdansk",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1",
-    "skill_level": "intern",
-    "country": "international",
-    "updated_at": "2026-10-16T15:46:32.005671+00:00",
-    "date_discovered": "2026-10-16T15:46:34.710045+00:00"
   },
   {
     "id": 18454063,
@@ -11286,17 +10681,6 @@
     "date_discovered": "2026-10-19T13:37:19.341539+00:00"
   },
   {
-    "id": 18464100,
-    "company_display": "Raytheon",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "location": "US-IA-CEDAR RAPIDS-121 ~ 350 Collins Rd NE ~ BLDG 121",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-19T14:10:32.257994+00:00",
-    "date_discovered": "2026-10-19T14:13:27.637352+00:00"
-  },
-  {
     "id": 18464179,
     "company_display": "Intel",
     "title": "Development Tools Software Engineer Intern (m/f/d)",
@@ -11361,17 +10745,6 @@
     "country": "international",
     "updated_at": "2026-10-19T15:11:11.266000+00:00",
     "date_discovered": "2026-10-19T15:36:23.294878+00:00"
-  },
-  {
-    "id": 18464586,
-    "company_display": "Raytheon",
-    "title": "Software Engineer I (Onsite)",
-    "location": "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I--Onsite-_01882229",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": "2026-10-19T15:40:12.765871+00:00",
-    "date_discovered": "2026-10-19T15:43:06.349583+00:00"
   },
   {
     "id": 18465005,
@@ -12353,17 +11726,6 @@
     "date_discovered": "2026-10-20T18:10:08.722836+00:00"
   },
   {
-    "id": 18471627,
-    "company_display": "Maximus",
-    "title": "ServiceNow & IT Service Management (ITSM) Intern",
-    "location": "Posted 08-Oct-2026 \u2022 Job ID #44094",
-    "url": "https://maximus.avature.net/careers/FolderDetail/United-States-2027-Summer-Internship-ServiceNow-IT-Service-Management-ITSM-Intern/44094",
-    "skill_level": "intern",
-    "country": null,
-    "updated_at": null,
-    "date_discovered": "2026-10-20T18:39:37.806668+00:00"
-  },
-  {
     "id": 18471628,
     "company_display": "Intuit",
     "title": "Winter 2027: Software Developer Co-op (8 months)",
@@ -12705,6 +12067,17 @@
     "date_discovered": "2026-10-21T11:14:46.949324+00:00"
   },
   {
+    "id": 18475762,
+    "company_display": "IBM",
+    "title": "(2027 Campus Hire-Kaohsiung) Application Developer | Apply by 3/28",
+    "location": "Kaohsiung, TW",
+    "url": "https://careers.ibm.com/careers/JobDetail?jobId=136808",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-21T11:41:31.739596+00:00"
+  },
+  {
     "id": 18475768,
     "company_display": "Raytheon",
     "title": "Part Time Systems Engineer Co-Op (Remote)",
@@ -13002,6 +12375,17 @@
     "date_discovered": "2026-10-21T15:19:53.671697+00:00"
   },
   {
+    "id": 18477023,
+    "company_display": "L3Harris",
+    "title": "Associate, Software Engineer",
+    "location": "Melbourne, FL",
+    "url": "https://careers.l3harris.com/en/job/melbourne/associate-software-engineer/4832/99701648224",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-21T15:40:30.996274+00:00"
+  },
+  {
     "id": 18477169,
     "company_display": "Expedia",
     "title": "Mobile Engineering Intern - 2027 - London",
@@ -13066,17 +12450,6 @@
     "country": "us",
     "updated_at": "2026-10-21T18:10:18.393038+00:00",
     "date_discovered": "2026-10-21T18:12:31.184554+00:00"
-  },
-  {
-    "id": 18477796,
-    "company_display": "Hubbell",
-    "title": "2027 Summer Intern: IT",
-    "location": "Greenville, SC",
-    "url": "https://careers.hubbell.com/job/Greenville-2027-Summer-Intern-IT-SC-29615/1442391000/",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-21T18:13:45.632094+00:00"
   },
   {
     "id": 18477956,
@@ -13255,17 +12628,6 @@
     "date_discovered": "2026-10-21T23:15:29.716500+00:00"
   },
   {
-    "id": 18479478,
-    "company_display": "Crusoe",
-    "title": "Software Engineering Intern, Summer 2027",
-    "location": "San Francisco, CA - US",
-    "url": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5",
-    "skill_level": "intern",
-    "country": "us",
-    "updated_at": "2026-10-21T23:07:40.382000+00:00",
-    "date_discovered": "2026-10-21T23:37:02.029350+00:00"
-  },
-  {
     "id": 18479481,
     "company_display": "IBM",
     "title": "Entry Level Software Developer 2027",
@@ -13277,17 +12639,6 @@
     "date_discovered": "2026-10-21T23:41:04.074537+00:00"
   },
   {
-    "id": 18479490,
-    "company_display": "IBM",
-    "title": "Entry Level AI Software Engineer",
-    "location": "POUGHKEEPSIE, USA",
-    "url": "https://careers.ibm.com/careers/JobDetail?jobId=137787",
-    "skill_level": "entry",
-    "country": "us",
-    "updated_at": null,
-    "date_discovered": "2026-10-21T23:41:05.276534+00:00"
-  },
-  {
     "id": 18479502,
     "company_display": "IBM",
     "title": "Entry Level AI Software Engineer",
@@ -13297,5 +12648,731 @@
     "country": "us",
     "updated_at": null,
     "date_discovered": "2026-10-21T23:41:05.761191+00:00"
+  },
+  {
+    "id": 18480367,
+    "company_display": "Apple",
+    "title": "Compiler Engineering Intern",
+    "location": "United Kingdom",
+    "url": "https://jobs.apple.com/en-us/details/200690664/compiler-engineering-intern?team=SFTWR",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T02:07:09.740000+00:00",
+    "date_discovered": "2026-10-22T02:37:30.735852+00:00"
+  },
+  {
+    "id": 18480687,
+    "company_display": "Coinbase",
+    "title": "Software Engineer Intern",
+    "location": "Hybrid - Singapore",
+    "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T03:19:41+00:00",
+    "date_discovered": "2026-10-22T04:00:26.761877+00:00"
+  },
+  {
+    "id": 18480897,
+    "company_display": "Aptiv",
+    "title": "Software Development Intern",
+    "location": "Troy, MI - USA",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/Troy-MI---USA/Software-Development-Intern_J000704861",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T05:11:51.629444+00:00",
+    "date_discovered": "2026-10-22T05:11:53.736984+00:00"
+  },
+  {
+    "id": 18481133,
+    "company_display": "Raytheon",
+    "title": "Graduate DevSecOps Engineer",
+    "location": "AU-SA-MAWSON LAKES-111 ~ 1-11 Technology Dr ~ BLDG 111",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/AU-SA-MAWSON-LAKES-111--1-11-Technology-Dr--BLDG-111/Graduate-DevSecOps-Engineer_01883926",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-22T07:05:06.156109+00:00",
+    "date_discovered": "2026-10-22T07:07:17.753443+00:00"
+  },
+  {
+    "id": 18481269,
+    "company_display": "Honeywell",
+    "title": "AI Engr I",
+    "location": "Guangzhou, Guangdong, China",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160439",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-22T00:00:00+00:00",
+    "date_discovered": "2026-10-22T08:05:28.624802+00:00"
+  },
+  {
+    "id": 18481575,
+    "company_display": "Visa",
+    "title": "Software Engineering Internship",
+    "location": "SG - Singapore",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa_Early_Careers/job/SG---Singapore/Software-Engineering-Internship_REF089737W",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T09:12:13.320001+00:00",
+    "date_discovered": "2026-10-22T09:12:14.583167+00:00"
+  },
+  {
+    "id": 18481617,
+    "company_display": "EA",
+    "title": "Software Engineer Intern",
+    "location": "Hyderabad, India \u2022 Role ID 215941 \u2022 Intern - Temporary Employee \u2022 EA Mobile - Slingshot Games (India)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/215941",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T10:03:33.279823+00:00"
+  },
+  {
+    "id": 18481618,
+    "company_display": "EA",
+    "title": "Software Engineer Intern",
+    "location": "Hyderabad, India \u2022 Role ID 215948 \u2022 Intern - Temporary Employee \u2022 EA Mobile - Slingshot Games (India)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/215948",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T10:03:33.442016+00:00"
+  },
+  {
+    "id": 18481619,
+    "company_display": "EA",
+    "title": "Software Engineer Intern",
+    "location": "Hyderabad, India \u2022 Role ID 215949 \u2022 Intern - Temporary Employee \u2022 EA Mobile - Slingshot Games (India)",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/215949",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T10:03:33.543498+00:00"
+  },
+  {
+    "id": 18481623,
+    "company_display": "Honeywell",
+    "title": "Intern Bachelors Software Eng",
+    "location": "Bengaluru, Karnataka, India",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/160483",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T00:00:00+00:00",
+    "date_discovered": "2026-10-22T10:05:06.287710+00:00"
+  },
+  {
+    "id": 18481688,
+    "company_display": "DXC Technology",
+    "title": "ServiceNow Developer Intern",
+    "location": "SGP - SINGAPORE",
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/DXCJobs/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51592061",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T10:09:18.605250+00:00",
+    "date_discovered": "2026-10-22T10:09:47.635743+00:00"
+  },
+  {
+    "id": 18481983,
+    "company_display": "Raytheon",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "location": "US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering--Intern--Summer-2027-_01881520",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T11:39:36.292302+00:00",
+    "date_discovered": "2026-10-22T11:41:53.353292+00:00"
+  },
+  {
+    "id": 18482110,
+    "company_display": "NVIDIA",
+    "title": "AI Agent Engineer Intern, AI Enablement Process - 2027",
+    "location": "China, Beijing",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Agent-Engineer-Intern--AI-Enablement-Process---2027_JR2025834-1",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T12:10:15.321807+00:00",
+    "date_discovered": "2026-10-22T12:11:38.291822+00:00"
+  },
+  {
+    "id": 18482336,
+    "company_display": "Danaher",
+    "title": "Intern PLC developer thesis worker",
+    "location": "Uppsala, Sweden",
+    "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Uppsala-Sweden/Intern-PLC-developer-thesis-worker_R1320652/apply",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T00:00:00+00:00",
+    "date_discovered": "2026-10-22T12:45:38.333912+00:00"
+  },
+  {
+    "id": 18482339,
+    "company_display": "Intel",
+    "title": "DevOps Engineering Intern",
+    "location": "Poland, Gdansk",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T12:45:59.026721+00:00",
+    "date_discovered": "2026-10-22T12:46:31.198962+00:00"
+  },
+  {
+    "id": 18482577,
+    "company_display": "TikTok",
+    "title": "Frontend Software Engineer - Intern (TikTok Global LIVE) - 2027 Start",
+    "location": "Singapore",
+    "url": "https://lifeattiktok.com/search/7699479125563738373",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T13:40:32.778615+00:00"
+  },
+  {
+    "id": 18482670,
+    "company_display": "Intel",
+    "title": "Software Development Intern (m/f/d)",
+    "location": "Germany, Munich",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T13:47:17.880290+00:00",
+    "date_discovered": "2026-10-22T13:47:19.579618+00:00"
+  },
+  {
+    "id": 18482671,
+    "company_display": "Microsoft",
+    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+    "location": "USA, Massachusetts, Cambridge",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T13:47:33.539356+00:00"
+  },
+  {
+    "id": 18482732,
+    "company_display": "Apple",
+    "title": "Software Engineer Intern, iCloud Platform",
+    "location": "United Kingdom",
+    "url": "https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform?team=SFTWR",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T12:57:34.892000+00:00",
+    "date_discovered": "2026-10-22T14:07:01.682032+00:00"
+  },
+  {
+    "id": 18482902,
+    "company_display": "Hubbell",
+    "title": "2027 Summer Intern: IT",
+    "location": "Greenville, SC",
+    "url": "https://careers.hubbell.com/job/Greenville-2027-Summer-Intern-IT-SC-29615/1442704100/",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T14:43:15.147664+00:00"
+  },
+  {
+    "id": 18482983,
+    "company_display": "Cibc",
+    "title": "Machine Learning Engineer Co-op",
+    "location": "Toronto, ON",
+    "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Machine-Learning-Engineer-Co-op_2621721",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T14:47:21.299732+00:00",
+    "date_discovered": "2026-10-22T14:48:03.624625+00:00"
+  },
+  {
+    "id": 18483056,
+    "company_display": "Raytheon",
+    "title": "Part-Time Software Engineer Co-op(Remote)",
+    "location": "US-CO-AURORA-S77 ~ 16470 E Hughes Dr ~ BLDG S77",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T15:10:16.453470+00:00",
+    "date_discovered": "2026-10-22T15:12:38.430092+00:00"
+  },
+  {
+    "id": 18483214,
+    "company_display": "1password",
+    "title": "Developer Intern, Data Security - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/8af1359a-c8a2-492b-b567-ae8ae184a8a1",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-22T15:22:03.972000+00:00",
+    "date_discovered": "2026-10-22T15:35:18.854055+00:00"
+  },
+  {
+    "id": 18483215,
+    "company_display": "1password",
+    "title": "Developer Intern, Machine Identity - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-22T15:32:00.089000+00:00",
+    "date_discovered": "2026-10-22T15:35:18.884537+00:00"
+  },
+  {
+    "id": 18483216,
+    "company_display": "1password",
+    "title": "Developer Intern, Vault Team - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-22T15:32:29.239000+00:00",
+    "date_discovered": "2026-10-22T15:35:18.900206+00:00"
+  },
+  {
+    "id": 18483217,
+    "company_display": "1password",
+    "title": "Security Intern, Threat Operations - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/aac7eea6-ed7c-4871-bbf2-7cb2d5138847",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-22T15:32:58.305000+00:00",
+    "date_discovered": "2026-10-22T15:35:18.909464+00:00"
+  },
+  {
+    "id": 18483218,
+    "company_display": "1password",
+    "title": "Developer Intern, Front-End Platform - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-22T15:20:51.182000+00:00",
+    "date_discovered": "2026-10-22T15:35:18.914507+00:00"
+  },
+  {
+    "id": 18483230,
+    "company_display": "L3Harris",
+    "title": "Image Processing Engineer Intern",
+    "location": "Tulsa, OK",
+    "url": "https://careers.l3harris.com/en/job/tulsa/image-processing-engineer-intern/4832/102290200560",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T15:40:41.047769+00:00"
+  },
+  {
+    "id": 18483232,
+    "company_display": "Iridium",
+    "title": "Systems Development Engineer I",
+    "location": "US-AZ-Chandler",
+    "url": "https://careers-iridium.icims.com/jobs/5109/systems-development-engineer-i/job",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T15:41:26.746576+00:00"
+  },
+  {
+    "id": 18483270,
+    "company_display": "Analog Devices",
+    "title": "Software QA Intern",
+    "location": "Spain, Valencia, Cortes Valencianas",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Spain-Valencia-Cortes-Valencianas/Software-QA-Intern_R267125",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T15:45:27.208541+00:00",
+    "date_discovered": "2026-10-22T15:45:44.954102+00:00"
+  },
+  {
+    "id": 18483341,
+    "company_display": "Costar",
+    "title": "AI Engineer I - Zonda - Glasgow, Scotland, United Kingdom",
+    "location": "Glasgow (GB) - Zonda",
+    "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/Glasgow-GB---Zonda/AI-Engineer-I---Zonda---Glasgow--Scotland--United-Kingdom_R40191",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-22T15:48:22.329736+00:00",
+    "date_discovered": "2026-10-22T15:48:26.598223+00:00"
+  },
+  {
+    "id": 18483365,
+    "company_display": "Nissan",
+    "title": "Cyber Security Intern - Summer 2027 - Smyrna, TN",
+    "location": "Smyrna, Tennessee - United States of America",
+    "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T15:48:48.298127+00:00",
+    "date_discovered": "2026-10-22T15:48:49.786965+00:00"
+  },
+  {
+    "id": 18483380,
+    "company_display": "1password",
+    "title": "Developer Intern, Provisioning - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-22T15:36:02.416000+00:00",
+    "date_discovered": "2026-10-22T16:05:30.913883+00:00"
+  },
+  {
+    "id": 18483444,
+    "company_display": "Northrop Grumman",
+    "title": "2027 Cyber Software Engineer Intern - San Antonio TX",
+    "location": "United States-Texas-San Antonio",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T16:09:07.792987+00:00",
+    "date_discovered": "2026-10-22T16:12:58.619744+00:00"
+  },
+  {
+    "id": 18483659,
+    "company_display": "Aptiv",
+    "title": "HVP/Cert Engineer Intern",
+    "location": "CAN Kanata (2), ON - WR",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/APTIV_CAREERS/job/CAN-Kanata-2-ON---WR/HVP-Cert--Engineer-Intern_J000704379",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T16:47:39.090130+00:00",
+    "date_discovered": "2026-10-22T16:47:40.843075+00:00"
+  },
+  {
+    "id": 18483736,
+    "company_display": "Anduril",
+    "title": "2027 Early Career Software Engineer",
+    "location": "Dublin, Ireland",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5272481007?gh_jid=5272481007",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-22T17:00:44+00:00",
+    "date_discovered": "2026-10-22T17:07:02.532537+00:00"
+  },
+  {
+    "id": 18483810,
+    "company_display": "Schneider-Electric",
+    "title": "IT Developer Intern",
+    "location": "Apodaca, Mexico",
+    "url": "https://careers-se.icims.com/jobs/137107/login",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T00:00:00+00:00",
+    "date_discovered": "2026-10-22T17:17:01.854678+00:00"
+  },
+  {
+    "id": 18483885,
+    "company_display": "Amazon",
+    "title": "Jr. Software Development Engineer - Detroit, MI, Jr. Developer Program",
+    "location": "Detroit, Michigan, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T17:20:15.892740+00:00"
+  },
+  {
+    "id": 18483889,
+    "company_display": "Swiggy",
+    "title": "Associate Software Development Engineer",
+    "location": "Bengaluru, KA",
+    "url": "https://jobs.smartrecruiters.com/SWIGGY/6000000001514759-associate-software-development-engineer",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-22T17:26:00.168000+00:00",
+    "date_discovered": "2026-10-22T17:37:09.881616+00:00"
+  },
+  {
+    "id": 18484061,
+    "company_display": "L3Harris",
+    "title": "Intern, Software Engineer",
+    "location": "Tulsa, OK",
+    "url": "https://careers.l3harris.com/en/job/tulsa/intern-software-engineer/4832/102294878784",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T18:10:56.845961+00:00"
+  },
+  {
+    "id": 18484149,
+    "company_display": "McKesson",
+    "title": "Graduate Cyber Security Analyst (Cyber Academy)",
+    "location": "Cork",
+    "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/Cork/Graduate-Cyber-Security-Analyst--Cyber-Academy-_JR0155418",
+    "skill_level": "entry",
+    "country": "international",
+    "updated_at": "2026-10-22T18:17:05.936223+00:00",
+    "date_discovered": "2026-10-22T18:17:17.767500+00:00"
+  },
+  {
+    "id": 18484150,
+    "company_display": "Intel",
+    "title": "Compiler Engineering Graduate Intern",
+    "location": "Canada, Toronto",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T18:17:25.223998+00:00",
+    "date_discovered": "2026-10-22T18:17:28.554114+00:00"
+  },
+  {
+    "id": 18484221,
+    "company_display": "Texas Instruments",
+    "title": "Software Engineering Intern (Canada)",
+    "location": "Canada",
+    "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T00:00:00+00:00",
+    "date_discovered": "2026-10-22T18:40:17.798533+00:00"
+  },
+  {
+    "id": 18484363,
+    "company_display": "Integrate",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "location": "Seattle, WA",
+    "url": "https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-21T19:02:00+00:00",
+    "date_discovered": "2026-10-22T19:02:11.931764+00:00"
+  },
+  {
+    "id": 18484364,
+    "company_display": "1password",
+    "title": "Developer Intern, Extension Excellence - Winter 2027",
+    "location": "Remote (United States | Canada)",
+    "url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491",
+    "skill_level": "intern",
+    "country": "remote",
+    "updated_at": "2026-10-22T18:43:46.841000+00:00",
+    "date_discovered": "2026-10-22T19:05:16.343847+00:00"
+  },
+  {
+    "id": 18484367,
+    "company_display": "Formlabs",
+    "title": "Manufacturing Test Software Intern (Winter/Spring 2027)",
+    "location": "Somerville, MA",
+    "url": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T18:53:32+00:00",
+    "date_discovered": "2026-10-22T19:07:20.894185+00:00"
+  },
+  {
+    "id": 18484385,
+    "company_display": "Leidos",
+    "title": "Entry Level Software Tester",
+    "location": "Lawton, OK",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Lawton-OK/Entry-Level-Software-Tester_R-00187901",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-22T19:12:21.556070+00:00",
+    "date_discovered": "2026-10-22T19:12:51.308453+00:00"
+  },
+  {
+    "id": 18484504,
+    "company_display": "Amazon",
+    "title": "Associate Delivery Consultant Intern, AWS Professional Services",
+    "location": "Arlington, Virginia, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T19:19:53.204177+00:00"
+  },
+  {
+    "id": 18484506,
+    "company_display": "Ciena",
+    "title": "Software Developer Intern - Winter 2027",
+    "location": "Ottawa",
+    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T19:20:03.826505+00:00",
+    "date_discovered": "2026-10-22T19:20:03.998669+00:00"
+  },
+  {
+    "id": 18484509,
+    "company_display": "Twitch",
+    "title": "Undergrad Software Engineering Intern (Grad Year: Spring 2028)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8886748002",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T19:17:18+00:00",
+    "date_discovered": "2026-10-22T19:35:11.864151+00:00"
+  },
+  {
+    "id": 18484510,
+    "company_display": "Twitch",
+    "title": "Undergrad Software Engineering Intern (Grad Year: Winter 2027)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8886605002",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T19:18:02+00:00",
+    "date_discovered": "2026-10-22T19:35:11.892973+00:00"
+  },
+  {
+    "id": 18484630,
+    "company_display": "M&T Bank",
+    "title": "Technology Intern - Software Engineering (Enterprise API Services Development Team)",
+    "location": "Buffalo, NY",
+    "url": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T19:47:42.574432+00:00",
+    "date_discovered": "2026-10-22T19:47:47.392865+00:00"
+  },
+  {
+    "id": 18484681,
+    "company_display": "Skydio",
+    "title": "Frontend Software Engineer Intern - Summer 2027",
+    "location": "San Mateo, California, USA",
+    "url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T19:44:53.854000+00:00",
+    "date_discovered": "2026-10-22T20:07:00.904689+00:00"
+  },
+  {
+    "id": 18484991,
+    "company_display": "Brookhaven-Lab",
+    "title": "Data Engineering Student Assistant",
+    "location": "Upton, NY",
+    "url": "https://bnl.wd1.myworkdayjobs.com/en-US/Externa/job/Upton-NY/Data-Engineering-Student-Assistant_JR102753",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-22T20:51:15.779839+00:00",
+    "date_discovered": "2026-10-22T20:51:16.142987+00:00"
+  },
+  {
+    "id": 18485016,
+    "company_display": "Boeing",
+    "title": "Entry-Level Software Engineer",
+    "location": "USA - Maryland Heights, MO",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-22T21:12:37.840536+00:00",
+    "date_discovered": "2026-10-22T21:14:10.690175+00:00"
+  },
+  {
+    "id": 18485120,
+    "company_display": "Palantir",
+    "title": "Forward Deployed Software Engineer, New Grad - Warp Speed",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T21:35:35.223847+00:00"
+  },
+  {
+    "id": 18485124,
+    "company_display": "Ursa Major",
+    "title": "2027 Summer Software Development Intern",
+    "location": "Berthoud, Colorado",
+    "url": "https://ursamajor.com/careers/?gh_jid=4746827005",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T21:12:28+00:00",
+    "date_discovered": "2026-10-22T21:36:06.557990+00:00"
+  },
+  {
+    "id": 18485125,
+    "company_display": "True Anomaly",
+    "title": "Software Engineer I, QA (New Grad)",
+    "location": "Denver, CO; Long Beach, CA",
+    "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T21:32:19+00:00",
+    "date_discovered": "2026-10-22T21:36:19.999528+00:00"
+  },
+  {
+    "id": 18485251,
+    "company_display": "Palantir",
+    "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T22:05:34.612272+00:00"
+  },
+  {
+    "id": 18485368,
+    "company_display": "Amazon",
+    "title": "System Development Engineer Intern/Co-op, ROBOTICS - 2027",
+    "location": "North Reading, Massachusetts, USA",
+    "url": "https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": null,
+    "date_discovered": "2026-10-22T22:19:49.921770+00:00"
+  },
+  {
+    "id": 18485370,
+    "company_display": "Rivian",
+    "title": "Software Engineering Intern - Applications (Summer 2027)",
+    "location": "Vancouver, British Columbia",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T22:21:38.710000+00:00",
+    "date_discovered": "2026-10-22T22:36:14.928036+00:00"
+  },
+  {
+    "id": 18485371,
+    "company_display": "Rivian",
+    "title": "Software Engineering Intern - Applications (Summer 2027)",
+    "location": "Palo Alto, California",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/7cc3dd48-631f-45ec-ae95-46c7cf05b160",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T22:22:03.131000+00:00",
+    "date_discovered": "2026-10-22T22:36:14.989689+00:00"
+  },
+  {
+    "id": 18485372,
+    "company_display": "Rivian",
+    "title": "Software Engineering Intern - Connected Systems (Summer 2027)",
+    "location": "Vancouver, British Columbia",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T22:22:51.582000+00:00",
+    "date_discovered": "2026-10-22T22:36:15.048169+00:00"
+  },
+  {
+    "id": 18485373,
+    "company_display": "Rivian",
+    "title": "Software Engineering Intern - Connected Systems (Summer 2027)",
+    "location": "Palo Alto, California",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f",
+    "skill_level": "intern",
+    "country": "us",
+    "updated_at": "2026-10-22T22:23:05.353000+00:00",
+    "date_discovered": "2026-10-22T22:36:15.086407+00:00"
+  },
+  {
+    "id": 18485374,
+    "company_display": "Rivian",
+    "title": "Software Engineering Intern - Vehicle Controls (Summer 2027)",
+    "location": "Vancouver, British Columbia",
+    "url": "https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0",
+    "skill_level": "intern",
+    "country": "international",
+    "updated_at": "2026-10-22T22:24:01.940000+00:00",
+    "date_discovered": "2026-10-22T22:36:15.187427+00:00"
+  },
+  {
+    "id": 18485713,
+    "company_display": "Guidehouse",
+    "title": "Technical Associate Application Developer - Campus 2027",
+    "location": "US - IL, Chicago",
+    "url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---IL-Chicago/Technical-Associate-Application-Developer---Campus-2027_45783",
+    "skill_level": "entry",
+    "country": "us",
+    "updated_at": "2026-10-22T23:45:49.717800+00:00",
+    "date_discovered": "2026-10-22T23:46:18.122120+00:00"
   }
 ]
